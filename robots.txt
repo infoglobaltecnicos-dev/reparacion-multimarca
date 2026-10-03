@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reparacion-multimarca.pages.dev/sitemap.xml
